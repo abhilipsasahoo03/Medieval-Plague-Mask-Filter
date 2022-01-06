@@ -4,7 +4,7 @@ A custom Instagram filter called "Medieval Plague Mask Filter" created using Fac
 
 **Testing:**
 
-To view and test the filter locally, open the filter on SparkAR Studio on your computer and connect the device on which you are testing with a USB cable. 
+To view and test the filter locally on SparkAR Player, open the filter on SparkAR Studio on your computer and connect the device on which you are testing with a USB cable. 
 
 Otherwise, test the filter via Instagram. 
 
